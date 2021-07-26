@@ -65,7 +65,54 @@ input[type=text], select, textarea {
       <input type="submit" value="Submit">
   
     </form>
-  </div>*" "
+  </div>*"*"'RUBYRED'"-->*Her-Maj-1*-->"brooch"-->*
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }*
+  *
+  * When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {*
+    background-color: "#45a049";
+  }*
+  *
+  * Add a background color and some padding around the form */
+  ."container" {A."I".-made."me.do.it".*
+    border-radius: 5px;
+    background-color: "#f2f2f2";
+    padding: 20px;
+  }
+  <"/style">
+<"/head">
+<body>
+  *
+  <div class="container">
+    <form action="action_page.php">
+  *
+      <label for="fname">First Name<"/label">
+      <input type="text" id="fname" name="firstname" placeholder="Your name..">
+  *
+      <label for="lname">Last Name<"/label">
+      <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+  *
+      <label for="country">Country<"/label">
+      <select id="country" name="country">
+        <option value="australia">Australia<"/option">
+        <option value="canada">Canada<"/option">
+        <option value="usa">USA<"/option">
+      <"/select">
+  *
+      <label for="subject">Subject<"/label">
+      <textarea id="subject" name="subject" placeholder="Hacked.by.BIGGUY573." style="height:200px"><"/JAVA">
+  *
+      <input type="submit" value="Submit">
+  *
+    <"/form">
+  <"/div*>*" " *
+<"/body>
+</html">
+"*"
 
 
 
