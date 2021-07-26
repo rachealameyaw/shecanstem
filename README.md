@@ -1,4 +1,29 @@
 # shecanstem
+# '#''$_A-Brooch-HM1.JS-->"*"
+# ```<DOCTYPE java>*" " 
+# <html lang="en">
+# <head>*
+#   <meta charset="UTF-8">*
+#   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+#   <title>conda_contact<"/title">*
+#   <style>*
+#     * Style inputs with type=".java", select elements and textareas *
+# input[type=text], select, textarea {"*
+#    width: 100%; * Full width *
+#    padding: 12px; * Some padding *
+#    border: 1px solid "#ccc"; * Gray border *
+#    border-radius: 4px; * Rounded borders *
+#    box-sizing: border-box; * Make sure that padding and width stays in place *
+#    margin-top: 6px; * Add a top margin *
+#    margin-bottom: 16px; * Bottom margin *
+#    resize: vertical * Allow the user to vertically resize the textarea (not horizontally) *
+#  }*
+#  *
+#  * wrap-layer the submit button "with" a specific background color etc *
+#  input[type=submit] {*
+#    background-color: "#4CAF50";
+#    color: "white"; *"'RUBYRED'"-->*Her-Maj-2*-->"brooch"-->*
+#    ```>*
 # a contact form developed with html and css
 # style -->  *
 # *Style inputs with type="text", select elements and textareas *
